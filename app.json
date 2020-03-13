@@ -26,6 +26,10 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.cpstl.qrreader",
+      "versionCode": 1
     }
   }
 }

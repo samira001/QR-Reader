@@ -40,7 +40,7 @@ function getHeaderTitle(route) {
 
   switch (routeName) {
     case 'Home':
-      return 'How to get started';
+      return 'QR Read Data List';
     case 'Links':
       return 'Scan Your QR Code';
   }
